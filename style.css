@@ -1,0 +1,36 @@
+h1{
+    color: darkgoldenrod;
+    font-family: sans-serif;
+}
+h2{
+    color: darkgoldenrod;
+    font-family: sans-serif;
+}
+h3{
+color: darkgoldenrod;
+font-family: sans-serif;
+}
+
+p{
+    color: darkgoldenrod;
+    font-family: fantasy
+}
+
+ul{
+    list-style-type: disc;
+    color: darkgoldenrod;
+    font-family: fantasy;
+
+}
+
+#menu-bar a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color:aquamarine;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: darkgoldenrod;
+    color: white;
+}
